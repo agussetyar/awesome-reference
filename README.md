@@ -43,6 +43,11 @@
 
 ### English
 
+- [Traversy Media](https://www.youtube.com/user/TechGuyWeb) - One of the best YouTube channels that provides learning about Website Development, Mobile Applications, Databases, and more with a step-by-step video playlist.
+- [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) - One of the best YouTube channels that provides learning about Website Development, Mobile Applications, Databases, and more with a step-by-step video playlist.
+- [Afgprogrammer](https://www.youtube.com/channel/UCuXm84E6yWF0dIKmwvwc9sQ) - YouTube channel that provides learning about UI / UX Website Design, UI / UX Mobile Application Design, and more with a step-by-step video playlist.
+- [Marcus Ng](https://www.youtube.com/channel/UC6Dy0rQ6zDnQuHQ1EeErGUA) - Youtube channel that provides learning about the design of Mobile Applications UI / UX (by speed-code) using Flutter.
+
 # Cybersecurity
 
 ## Hacking
