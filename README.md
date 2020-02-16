@@ -95,8 +95,7 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 ### Other sources 
 
-- [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - A curated list of Capture The Flag (CTF) frameworks, libraries, resources, softwares and tutorials. This list aims to help starters as well as seasoned CTF players to find everything related to CTFs at one place.
-
+- [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - A curated list of Capture The Flag (CTF) frameworks, libraries, resources, softwares and tutorials.
 
 
 
