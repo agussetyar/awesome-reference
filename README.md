@@ -1,5 +1,8 @@
 # Awesome Reference [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
- Reference list of useful links to learn about Networking, Programming, Cybersecurity (Hacking, Bug Bounty Write-ups, CTFs), and more
+
+Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemrograman, Keamanan Siber (Peretasan, Bug Bounty Write-up, CTFs), dan lainnya.
+
+ Reference list of useful links to learn about Networking, Programming, Cybersecurity (Hacking, Bug Bounty Write-ups, CTFs), and more.
 
 ### Contents
 
@@ -86,5 +89,6 @@
 
 # Report Broken Link
 
-Laporkan link yang rusak pada halaman *Issue*.\
+Laporkan link yang rusak pada halaman *Issue*.
+
 Report broken links on the *Issue* page.
