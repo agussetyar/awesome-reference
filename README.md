@@ -25,6 +25,7 @@
       - [Youtube Channel]
         - [Bahasa Indonesia]
         - [English]
+- [Report Broken Link](#report-broken-link)
       
 
 # Networking
@@ -79,3 +80,11 @@
 #### English
 
 - [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) - One of the best YouTube channels that provides learning about Computer Security and Capture-the-Flag (Web Security, Browser Exploitation, Binary Exploitaion, Mobile Security).
+
+
+
+
+# Report Broken Link
+
+Laporkan link yang rusak pada halaman *Issue*.
+Report broken links on the *Issue* page.
