@@ -13,7 +13,7 @@
       - [Bahasa Indonesia](#bahasa)
       - [English](#english)
   - [Cybersecurity](#cybersecurity)
-    - [Hacking]
+    - [Hacking](#hacking)
       - [Youtube Channel](#youtube-channel)
         - [Bahasa Indonesia](#bahasa)
         - [English](#english)
@@ -42,3 +42,29 @@
 ### Bahasa
 
 ### English
+
+# Cybersecurity
+
+## Hacking
+
+### Youtube Channel
+
+#### Bahasa
+
+#### English
+
+## Bug Bounty
+
+### Medium
+
+#### Bahasa
+
+#### English
+
+## CTFs
+
+### Youtube Channel
+
+#### Bahasa
+
+#### English
