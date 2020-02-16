@@ -56,14 +56,13 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 ### Article
 
-- [https://medium.com/bugbountywriteup](https://medium.com/bugbountywriteup)
-
 #### Bahasa
 
 #### English
 
 - [How I Hacked Amazon? S3 Bucket Misconfiguration Vulnerability In Amazon](https://hackersonlineclub.com/how-i-hacked-amazon-s3-bucket-misconfiguration-in-amazon/)
 - [DANGERS OF LARAVEL DEBUG MODE ENABLED](https://hacken.io/research/researches-and-investigations/dangers-of-laravel-debug-mode-enabled/)
+- [https://medium.com/bugbountywriteup](https://medium.com/bugbountywriteup)
 
 ### Youtube Channel
 
@@ -78,8 +77,12 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 ### Article
 
+#### Bahasa
+
 - [noobSecurity](https://noobsec.org/)
 - [https://graylife.co/](https://graylife.co/)
+
+#### English
 
 ### Youtube Channel
 
