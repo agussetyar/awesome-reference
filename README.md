@@ -71,6 +71,14 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 ## Hacking
 
+### Article
+
+#### Bahasa
+
+#### English
+
+- [How I Hacked Amazon? S3 Bucket Misconfiguration Vulnerability In Amazon](https://hackersonlineclub.com/how-i-hacked-amazon-s3-bucket-misconfiguration-in-amazon/)
+
 ### Youtube Channel
 
 #### Bahasa
