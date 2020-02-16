@@ -86,5 +86,5 @@
 
 # Report Broken Link
 
-Laporkan link yang rusak pada halaman *Issue*.
+Laporkan link yang rusak pada halaman *Issue*.\
 Report broken links on the *Issue* page.
