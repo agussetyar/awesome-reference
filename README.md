@@ -21,7 +21,7 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
         - [Bahasa Indonesia]
         - [English]
     - [Bug Bounty Write-ups](#bug-bounty)
-      - [Medium]
+      - [Youtube Channel]
         - [Bahasa Indonesia]
         - [English]
     - [CTFs](#ctfs)
@@ -71,6 +71,10 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 ## Hacking
 
+### Medium
+
+- [https://medium.com/bugbountywriteup](https://medium.com/bugbountywriteup)
+
 ### Article
 
 #### Bahasa
@@ -91,7 +95,7 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 ## Bug Bounty
 
-### Medium
+### Youtube Channel
 
 #### Bahasa
 
