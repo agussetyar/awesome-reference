@@ -33,6 +33,8 @@
 
 ### Bahasa
 
+- [Onno Center](https://www.youtube.com/channel/UCvYfBQdMzsWTbNAsgJEC7Ig) - Salah satu Youtube channel terbaik yang memberikan pelajaran tentang Teknik Jaringan Komputer (IoT, OpenWRT, OpenBTS, VoIP, dan banyak lagi).
+
 ### English
 
 # Programming
@@ -71,5 +73,7 @@
 ### Youtube Channel
 
 #### Bahasa
+
+- [Cyber Security IPB](https://www.youtube.com/channel/UCH6CPf10u9uQu3w1DRhOliw) - Youtube channel yang memberikan pelajaran tentang Keamanan Komputer dan Tutorial Capture-the-Flag (Keamanan Web, Binary Exploit, Reverse Engineering, dan banyak lagi) dari civitas IPB Bogor.
 
 #### English
