@@ -32,6 +32,7 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
     - [Youtube Channel]
         - [Bahasa Indonesia]
         - [English]
+- [Other Sources](https://github.com/sindresorhus/awesome)
 - [Report Broken Link](#report-broken-link)
       
 
@@ -61,7 +62,7 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 - [Marcus Ng](https://www.youtube.com/channel/UC6Dy0rQ6zDnQuHQ1EeErGUA) - Youtube channel that provides learning about the UI / UX Mobile Applications Design (by speed-code) using Flutter.
 - [React UI Kit](https://www.youtube.com/channel/UC6Dy0rQ6zDnQuHQ1EeErGUA) - Youtube channel that provides learning about the UI / UX Mobile Applications Design (by speed-code) using React Native.
 
-## Other sources
+## Other Sources
 
 - [Awesome Flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [Awesome React](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
@@ -87,7 +88,7 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 #### English
 
-### Other sources
+### Other Sources
 
 - [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) - A comprehensive curated list of available Bug Bounty & Disclosure Programs and Write-ups.
 
@@ -103,7 +104,7 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 - [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) - One of the best YouTube channels that provides learning about Computer Security and Capture-the-Flag (Web Security, Browser Exploitation, Binary Exploitaion, Mobile Security).
 
-### Other sources 
+### Other Sources 
 
 - [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - A curated list of Capture The Flag (CTF) frameworks, libraries, resources, softwares and tutorials.
 
