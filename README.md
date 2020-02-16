@@ -47,6 +47,8 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 ### Bahasa
 
+- [Web Programming UNPAS](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg) - Channel khusus yang membahas mengenai Teknologi Internet dan Pengembangan Web. Dikelola secara khusus oleh Sandhika Galih sebagai staf pengajar di Program Studi Teknik Informatika Universitas Pasundan Bandung.
+
 ### English
 
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb) - One of the best YouTube channels that provides learning about Website Development, Mobile Applications, Databases with a step-by-step video playlist.
