@@ -113,8 +113,8 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 ### Bahasa
 
-- [BukaTalks](#https://www.youtube.com/channel/UCFg3EocOqjE2Oj1mMiU_wag) - Tech talk oleh Bukalapak.
-- [Tech a Break](#https://www.youtube.com/watch?v=RF2EeJ2UjA4&list=PLmmGB6SXc_3QlKdrOFwDySJZbuSCZCQoj&index=20) - Tech talk oleh Tokopedia.
+- [BukaTalks](https://www.youtube.com/channel/UCFg3EocOqjE2Oj1mMiU_wag) - Tech talk oleh Bukalapak.
+- [Tech a Break](https://www.youtube.com/watch?v=RF2EeJ2UjA4&list=PLmmGB6SXc_3QlKdrOFwDySJZbuSCZCQoj&index=20) - Tech talk oleh Tokopedia.
 
 ### English
 
