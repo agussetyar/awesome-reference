@@ -28,6 +28,10 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
       - [Youtube Channel]
         - [Bahasa Indonesia]
         - [English]
+  - [Tech Talk](#tech-talk)
+    - [Youtube Channel]
+        - [Bahasa Indonesia]
+        - [English]
 - [Report Broken Link](#report-broken-link)
       
 
@@ -103,6 +107,16 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 - [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - A curated list of Capture The Flag (CTF) frameworks, libraries, resources, softwares and tutorials.
 
+# Tech Talk
+
+## Youtube Channel
+
+### Bahasa
+
+- [BukaTalks](#https://www.youtube.com/channel/UCFg3EocOqjE2Oj1mMiU_wag) - Tech talk oleh Bukalapak.
+- [Tech a Break](#https://www.youtube.com/watch?v=RF2EeJ2UjA4&list=PLmmGB6SXc_3QlKdrOFwDySJZbuSCZCQoj&index=20) - Tech talk oleh Tokopedia.
+
+### English
 
 
 # Report Broken Link
