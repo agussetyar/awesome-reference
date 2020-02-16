@@ -5,26 +5,26 @@
 
 - [Awesome Reference](#awesome-reference)
   - [Networking](#networking)
-    - [Youtube Channel](#youtube-channel)
-      - [Bahasa Indonesia](#bahasa)
-      - [English](#english)
+    - [Youtube Channel]
+      - [Bahasa Indonesia]
+      - [English]
   - [Programming](#programming)
-    - [Youtube Channel](#youtube-channel)
-      - [Bahasa Indonesia](#bahasa)
-      - [English](#english)
+    - [Youtube Channel]
+      - [Bahasa Indonesia]
+      - [English]
   - [Cybersecurity](#cybersecurity)
     - [Hacking](#hacking)
-      - [Youtube Channel](#youtube-channel)
-        - [Bahasa Indonesia](#bahasa)
-        - [English](#english)
+      - [Youtube Channel]
+        - [Bahasa Indonesia]
+        - [English]
     - [Bug Bounty Write-ups](#bug-bounty)
-      - [Medium](#medium)
-        - [Bahasa Indonesia](#bahasa)
-        - [English](#english)
+      - [Medium]
+        - [Bahasa Indonesia]
+        - [English]
     - [CTFs](#ctfs)
-      - [Youtube Channel](#youtube-channel)
-        - [Bahasa Indonesia](#bahasa)
-        - [English](#english)
+      - [Youtube Channel]
+        - [Bahasa Indonesia]
+        - [English]
       
 
 # Networking
