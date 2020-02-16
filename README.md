@@ -77,6 +77,10 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 ## Bug Bounty
 
+### Medium
+
+- [noobSecurity](https://noobsec.org/)
+
 ### Youtube Channel
 
 #### Bahasa
