@@ -58,6 +58,7 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 ## Other sources
 
 - [Awesome Flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
+- [Awesome React](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
 
 # Cybersecurity
 
@@ -68,6 +69,10 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 #### Bahasa
 
 #### English
+
+- [Black Hat](https://www.youtube.com/user/BlackHatOfficialYT) - Black Hat is the most technical and relevant information security event series in the world.
+
+- [DEFCONConference](https://www.youtube.com/user/DEFCONConference) - DEFCON is one of the world's largest and most notable hacker conventions.
 
 ## Bug Bounty
 
