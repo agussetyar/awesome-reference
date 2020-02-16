@@ -71,7 +71,6 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 #### English
 
 - [Black Hat](https://www.youtube.com/user/BlackHatOfficialYT) - Black Hat is the most technical and relevant information security event series in the world.
-
 - [DEFCONConference](https://www.youtube.com/user/DEFCONConference) - DEFCON is one of the world's largest and most notable hacker conventions.
 
 ## Bug Bounty
