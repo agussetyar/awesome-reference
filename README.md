@@ -54,11 +54,9 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 ## Hacking
 
-### Medium
+### Article
 
 - [https://medium.com/bugbountywriteup](https://medium.com/bugbountywriteup)
-
-### Article
 
 #### Bahasa
 
@@ -78,12 +76,9 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 ## Bug Bounty
 
-### Medium
-
-- [noobSecurity](https://noobsec.org/)
-
 ### Article
 
+- [noobSecurity](https://noobsec.org/)
 - [https://graylife.co/](https://graylife.co/)
 
 ### Youtube Channel
