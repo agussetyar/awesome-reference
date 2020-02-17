@@ -44,6 +44,8 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 - [https://www.w3schools.com/](https://www.w3schools.com/)
 - [https://www.tutorialspoint.com/](https://www.tutorialspoint.com/)
+- [https://scotch.io/](https://scotch.io/)
+- [https://dev.to/](https://dev.to/)
 
 ## Youtube Channel
 
@@ -187,7 +189,7 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 # Contributors
 
-Submit referensi menarik lain yang anda ketahui pada halaman *Pull requests*.
+Submit referensi menarik lain yang ada ketahui pada halaman *Pull requests*.
 
 Submit other interesting references that you know on the *Pull requests* page.
 
