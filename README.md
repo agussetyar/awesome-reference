@@ -156,7 +156,11 @@ Reference list of useful links to learn about Networking, Programming, Cybersecu
 
 ### Article
 
+#### Bahasa
+
 - [https://reversingpwn.wordpress.com/](https://reversingpwn.wordpress.com/)
+
+#### English
 
 ### Youtube Channel
 
