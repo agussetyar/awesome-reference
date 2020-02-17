@@ -18,6 +18,7 @@ Reference list of useful links to learn about Networking, Programming, Cybersecu
 - [Contributors](#contributors)
 - [Report Broken Link](#report-broken-link)
 
+
 # Networking
 
 ## Youtube Channel
@@ -161,7 +162,7 @@ Reference list of useful links to learn about Networking, Programming, Cybersecu
 
 #### Bahasa
 
-- [Tripoloski \_](https://www.youtube.com/channel/UC9ffb16_yvW5HG_f5BJ0k_A)
+- [Tripoloski_](https://www.youtube.com/channel/UC9ffb16_yvW5HG_f5BJ0k_A)
 - [Cyber Security IPB](https://www.youtube.com/channel/UCH6CPf10u9uQu3w1DRhOliw) - Salah satu Youtube channel terbaik yang memberikan pembelajaran tentang Keamanan Komputer dan Capture-the-Flag (Web Security, Binary Exploit, Reverse Engineering) dari civitas IPB Bogor.
 
 #### English
@@ -191,14 +192,16 @@ Reference list of useful links to learn about Networking, Programming, Cybersecu
 
 ### English
 
-- [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg) - Python Programming & Tech Tutorials
-- [Network Chuck](https://www.youtube.com/user/NetworkChuck/) - Youtube channel that talking about Information Technology. In here you can find Linux, Raspberry PI and almost everything that contains about Tech!.
+
+
+
+
 
 # Contributors
 
-Submit referensi menarik lain yang anda ketahui pada halaman _Pull requests_.
+Submit referensi menarik lain yang anda ketahui pada halaman *Pull requests*.
 
-Submit other interesting references that you know on the _Pull requests_ page.
+Submit other interesting references that you know on the *Pull requests* page.
 
 <a href="https://github.com/1F1R5T">
  <img src="https://avatars0.githubusercontent.com/u/26076138?s=460&v=4" title="Achmad Imannudin" width="35" height="35">
@@ -218,6 +221,6 @@ Submit other interesting references that you know on the _Pull requests_ page.
 
 # Report Broken Link
 
-Laporkan link yang rusak pada halaman _Issue_.
+Laporkan link yang rusak pada halaman *Issue*.
 
-Report broken links on the _Issue_ page.
+Report broken links on the *Issue* page.
