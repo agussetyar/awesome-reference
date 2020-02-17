@@ -151,6 +151,7 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 ### Other Sources 
 
 - [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - A curated list of Capture The Flag (CTF) frameworks, libraries, resources, softwares and tutorials.
+- [Awesome Reversing](https://github.com/ReversingID/Awesome-Reversing) - A curated list of awesome reverse engineering resources to make you better!
 
 # Tech Talk
 
