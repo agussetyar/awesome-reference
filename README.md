@@ -63,13 +63,15 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 - [Brackeys](https://www.youtube.com/user/Brackeys/) - Game Dev Tutorial Brackeys, Learn how to make video games!
 - [Marcus Ng](https://www.youtube.com/channel/UC6Dy0rQ6zDnQuHQ1EeErGUA) - Youtube channel that provides learning about the UI / UX Mobile Applications Design (by speed-code) using Flutter.
 - [OU Graphics](https://www.youtube.com/channel/UC1ptLbehYDNqwdnIGwLpysw) - OU Graphics is an international platform dedicated to teach and explore the world of architecture representation.
-- [Code Monkey](https://www.youtube.com/channel/UCFK6NCbuCIVzA6Yj1G_ZqCg) - Learn everything about Game Development in Unity 2D using C#.- [Celeb Curry](https://www.youtube.com/user/CalebTheVideoMaker2) - Youtube channel that provides a great quality of Programming. You will find C++, Javascript, C, Database Design, SQL and many more!
+- [Code Monkey](https://www.youtube.com/channel/UCFK6NCbuCIVzA6Yj1G_ZqCg) - Learn everything about Game Development in Unity 2D using C#.
+- [Celeb Curry](https://www.youtube.com/user/CalebTheVideoMaker2) - Youtube channel that provides a great quality of Programming. You will find C++, Javascript, C, Database Design, SQL and many more!
 - [React UI Kit](https://www.youtube.com/channel/UC6Dy0rQ6zDnQuHQ1EeErGUA) - Youtube channel that provides learning about the UI / UX Mobile Applications Design (by speed-code) using React Native.
 - [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg) - Python Programming & Tech Tutorials.
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) - One of the best YouTube channels that provides learning about Website Development, Mobile Applications, Databases with a step-by-step video playlist.
 - [Afgprogrammer](https://www.youtube.com/channel/UCuXm84E6yWF0dIKmwvwc9sQ) - YouTube channel that provides learning about UI / UX Website Design, UI / UX Mobile Application Design with a step-by-step video playlist.
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb) - One of the best YouTube channels that provides learning about Website Development, Mobile Applications, Databases with a step-by-step video playlist.
 - [1BestCsharp blog](https://www.youtube.com/channel/UCS3W5vFugqi6QcsoAIHcMpw) - Tutorials, Projects Source Code C#, VB.NET, JAVA, PHP.
+
 
 
 ## Other Sources
