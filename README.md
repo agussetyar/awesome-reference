@@ -103,7 +103,7 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 - [https://owasp.org/www-community/](https://owasp.org/www-community/)
 - [https://paper.seebug.org/](https://paper.seebug.org/category/404team-en/)
 - [https://portswigger.net/web-security/all-labs](https://portswigger.net/web-security/all-labs)
-- [https://www.hahwul.com/]
+- [https://www.hahwul.com/](https://www.hahwul.com/)
 
 ### Youtube Channel
 
