@@ -49,6 +49,25 @@ Reference list of useful links to learn about Networking, Programming, Cybersecu
 - [https://www.w3schools.com/](https://www.w3schools.com/)
 - [https://www.tutorialspoint.com/](https://www.tutorialspoint.com/)
 
+## Software Engineering Concept
+### English
+- [Martin Fowler's Blog](https://martinfowler.com/) - Blog that Covers basic & advance software engineering concept & best practices
+- [Refactoring Guru](https://refactoring.guru/) - Software Design Pattern Tutorial
+- [Source Making](https://sourcemaking.com/) - Software Design Pattern Tutorial
+- [Drew Olson's Blog](https://blog.drewolson.org/) - Blog that covers advance software engineering concept with variant topics and sometimes includes a concrete example
+
+## Natural Language Processing
+### English
+- [Daniel Jurafsky's Blog](https://web.stanford.edu/~jurafsky/slp3/) - Natural Language Processing related topics
+
+## Go Programming Language
+### Bahasa
+- [Noval Agung's Blog](https://dasarpemrogramangolang.novalagung.com/) - Basic Go programming language with example
+
+## DevOps
+### English
+- [Faun's Blog](https://medium.com/faun) - Medium's blog that focused on backend & devops topic
+
 ## Youtube Channel
 
 ### Bahasa
@@ -183,6 +202,8 @@ Reference list of useful links to learn about Networking, Programming, Cybersecu
 - [Awesome Reversing](https://github.com/ReversingID/Awesome-Reversing) - A curated list of awesome reverse engineering resources to make you better!
 - [http://allitebooks.com/](http://allitebooks.com/) - All IT eBooks - Free IT eBooks Download.
 - [https://asrul.dev/docs/](https://asrul.dev/docs/)
+- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - Just another reference for cyber security topics
+- [Gentoomen Library](https://theswissbay.ch/pdf/Gentoomen%20Library/) - Variant topics about programming
 
 # Tech Talk
 
@@ -196,9 +217,6 @@ Reference list of useful links to learn about Networking, Programming, Cybersecu
 ### English
 
 - [Network Chuck](https://www.youtube.com/user/NetworkChuck) - Youtube channel that talking about Information Technology. In here you can find Linux, Raspberry PI and almost everything that contains about Tech!
-
-
-
 
 
 # Contributors
@@ -221,6 +239,9 @@ Submit other interesting references that you know on the *Pull requests* page.
 </a>
 <a href="https://github.com/mrizkimaulidan">
  <img src="https://avatars0.githubusercontent.com/u/34594537?s=460&v=4" title="M Rizki Maulidan" width="35" height="35">
+</a>
+<a href="https://github.com/ClavinJune">
+ <img src="https://avatars3.githubusercontent.com/u/24659468?s=460&v=4" title="Clavin June" width="35" height="35">
 </a>
 
 # Report Broken Link
