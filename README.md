@@ -30,6 +30,20 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 # Programming
 
+## Article
+
+### Bahasa
+
+- [Duniailkom](https://www.duniailkom.com/)
+- [CodeSaya](https://codesaya.com/)
+- [Malas Ngoding](https://www.malasngoding.com/) - Tutorial pemrograman web, web design, mobile terlengkap untuk pemula sampai mahir. tersedia tutorial gratis dan premium yang berkualitas.
+- [Codelatte](https://codelatte.org/) - Blog yang menyediakan beragam artikel dan tutorial menarik dan mudah dipahami tentang pemrograman website.
+
+### English
+
+- [W3Schools Online Web Tutorials](https://www.w3schools.com/) - THE WORLD'S LARGEST WEB DEVELOPER SITE
+- [Tutorialspoint](https://www.tutorialspoint.com/)
+
 ## Youtube Channel
 
 ### Bahasa
