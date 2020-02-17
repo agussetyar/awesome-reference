@@ -62,6 +62,10 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 - [Afgprogrammer](https://www.youtube.com/channel/UCuXm84E6yWF0dIKmwvwc9sQ) - YouTube channel that provides learning about UI / UX Website Design, UI / UX Mobile Application Design with a step-by-step video playlist.
 - [Marcus Ng](https://www.youtube.com/channel/UC6Dy0rQ6zDnQuHQ1EeErGUA) - Youtube channel that provides learning about the UI / UX Mobile Applications Design (by speed-code) using Flutter.
 - [React UI Kit](https://www.youtube.com/channel/UC6Dy0rQ6zDnQuHQ1EeErGUA) - Youtube channel that provides learning about the UI / UX Mobile Applications Design (by speed-code) using React Native.
+- [Brackeys](https://www.youtube.com/user/Brackeys/) - Game Dev Tutorial Brackeys, Learn how to make video games!
+- [1BestCsharp blog](https://www.youtube.com/channel/UCS3W5vFugqi6QcsoAIHcMpw) - Tutorials, Projects Source Code C#, VB.NET, JAVA, PHP.
+- [OU Graphics](https://www.youtube.com/channel/UC1ptLbehYDNqwdnIGwLpysw) - OU Graphics is an international platform dedicated to teach and explore the world of architecture representation.
+- [Code Monkey](https://www.youtube.com/channel/UCFK6NCbuCIVzA6Yj1G_ZqCg) - Learn everything about Game Development in Unity 2D using C#.
 
 ## Other Sources
 
@@ -87,15 +91,13 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 #### English
 
-- [How I Hacked Amazon? S3 Bucket Misconfiguration Vulnerability In Amazon](https://hackersonlineclub.com/how-i-hacked-amazon-s3-bucket-misconfiguration-in-amazon/)
-- [DANGERS OF LARAVEL DEBUG MODE ENABLED](https://hacken.io/research/researches-and-investigations/dangers-of-laravel-debug-mode-enabled/)
-
-
+- [https://hacken.io/](https://hacken.io/)
 - [https://tinyhack.com/](https://tinyhack.com/)
 - [http://www.securityidiots.com/](http://www.securityidiots.com/)
-- [Paper Seebug](https://paper.seebug.org/category/404team-en/)
-- [Portswigger Web Security](https://portswigger.net/web-security/all-labs)
-- [OWASP Community](https://owasp.org/www-community/)
+- [https://hackersonlineclub.com/](https://hackersonlineclub.com/)
+- [https://owasp.org/www-community/](https://owasp.org/www-community/)
+- [https://paper.seebug.org/](https://paper.seebug.org/category/404team-en/)
+- [https://portswigger.net/web-security/all-labs](https://portswigger.net/web-security/all-labs)
 
 ### Youtube Channel
 
@@ -106,10 +108,6 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 #### English
 
-- [Brackeys](https://www.youtube.com/user/Brackeys/) - Game Dev Tutorial Brackeys, Learn how to make video games!
-- [1BestCsharp blog](https://www.youtube.com/channel/UCS3W5vFugqi6QcsoAIHcMpw/) - Tutorials, Projects Source Code C#, VB.NET, JAVA, PHP
-- [OU Graphics](https://www.youtube.com/channel/UC1ptLbehYDNqwdnIGwLpysw/) - OU Graphics is an international platform dedicated to teach and explore the world of architecture representation. We believe that how the Architect expresses themselves is strongly connected to the design process of the profession.
-- [Code Monkey](https://www.youtube.com/channel/UCFK6NCbuCIVzA6Yj1G_ZqCg/) - Hello and welcome, I am your Code Monkey and here you will learn everything about Game Development in Unity 2D using C#.
 - [Black Hat](https://www.youtube.com/user/BlackHatOfficialYT) - Black Hat is the most technical and relevant information security event series in the world.
 - [DEFCONConference](https://www.youtube.com/user/DEFCONConference) - DEFCON is one of the world's largest and most notable hacker conventions.
 - [Ghidra Ninja](https://www.youtube.com/channel/UC3S8vxwRfqLBdIhgRlDRVzw)
