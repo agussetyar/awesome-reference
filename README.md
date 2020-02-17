@@ -203,7 +203,16 @@ Submit referensi menarik lain yang anda ketahui pada halaman *Pull requests*.
 Submit other interesting references that you know on the *Pull requests* page.
 
 <a href="https://github.com/1F1R5T">
- <img src="https://avatars0.githubusercontent.com/u/26076138?s=460&v=4" title="1F1R5T" width="35" height="35">
+ <img src="https://avatars0.githubusercontent.com/u/26076138?s=460&v=4" title="Achmad Imannudin" width="35" height="35">
+</a>
+<a href="https://github.com/panophan">
+ <img src="https://avatars3.githubusercontent.com/u/44427665?s=460&v=4" title="Novran Faathir" width="35" height="35">
+</a>
+<a href="https://github.com/abaykan">
+ <img src="https://avatars2.githubusercontent.com/u/35039013?s=460&v=4" title="ᴹᵘᵏʰᵃᵐᵐᵃᵈ ᴬᵏᵇᵃʳ" width="35" height="35">
+</a>
+<a href="https://github.com/rzkytmgr">
+ <img src="https://avatars1.githubusercontent.com/u/56517576?s=460&v=4" title="Rizky" width="35" height="35">
 </a>
 
 # Report Broken Link
