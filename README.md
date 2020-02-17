@@ -103,6 +103,9 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 #### English
 
 - [Brackeys](https://www.youtube.com/user/Brackeys/) - Game Dev Tutorial Brackeys, Learn how to make video games!
+- [1BestCsharp blog](https://www.youtube.com/channel/UCS3W5vFugqi6QcsoAIHcMpw/) - Tutorials, Projects Source Code C#, VB.NET, JAVA, PHP
+- [OU Graphics](https://www.youtube.com/channel/UC1ptLbehYDNqwdnIGwLpysw/) - OU Graphics is an international platform dedicated to teach and explore the world of architecture representation. We believe that how the Architect expresses themselves is strongly connected to the design process of the profession.
+- [Code Monkey](https://www.youtube.com/channel/UCFK6NCbuCIVzA6Yj1G_ZqCg/) - Hello and welcome, I am your Code Monkey and here you will learn everything about Game Development in Unity 2D using C#.
 - [Black Hat](https://www.youtube.com/user/BlackHatOfficialYT) - Black Hat is the most technical and relevant information security event series in the world.
 - [DEFCONConference](https://www.youtube.com/user/DEFCONConference) - DEFCON is one of the world's largest and most notable hacker conventions.
 - [Ghidra Ninja](https://www.youtube.com/channel/UC3S8vxwRfqLBdIhgRlDRVzw)
