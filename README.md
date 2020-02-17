@@ -110,6 +110,7 @@ Reference list of useful links to learn about Networking, Programming, Cybersecu
 
 - [Semi Yulianto](https://www.youtube.com/channel/UCXCz2ZdxkXpFyHFJgMy-pJw) - Youtube channel yang membahas mengenai pembelajaran hacking, forensic, tips & trik keamanan komputer.
 - [Jogjakarta Hacker Link](https://www.youtube.com/channel/UCv2BT88dIsTQE17B4tJKqkw) - Youtube channel yang membahas mengenai pembelajaran seputar dunia IT, penetrasi, dan semua dengan etika yang berlaku.
+- [LINUXcare](https://www.youtube.com/channel/UC82S4yJws0uk6ed8BX8nONQ) - Youtube channel yang membahas mengenai Hacking dan Linux.
 
 #### English
 
