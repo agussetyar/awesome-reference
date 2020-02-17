@@ -79,6 +79,7 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 #### Bahasa
 
 - [InfoSec ZeroByte](http://infosec.zerobyte.id/)
+- [Abaykan.com](https://abaykan.com/)
 
 #### English
 
