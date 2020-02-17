@@ -34,8 +34,9 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 ### Bahasa
 
-- [Web Programming UNPAS](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg) - Channel khusus yang membahas mengenai Teknologi Internet dan Pengembangan Web. Dikelola secara khusus oleh Sandhika Galih sebagai staf pengajar di Program Studi Teknik Informatika Universitas Pasundan Bandung.
-- [Indonesia Belajar](https://www.youtube.com/channel/UCQ4Jo2IJeyRGzZBvjaaLzrw) - Channel belajar Ilmu Komputer Bahasa Indonesia.
+- [Web Programming UNPAS](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg) - Youtube channel khusus yang membahas mengenai Teknologi Internet dan Pengembangan Web. Dikelola secara khusus oleh Sandhika Galih sebagai staf pengajar di Program Studi Teknik Informatika Universitas Pasundan Bandung.
+- [Indonesia Belajar](https://www.youtube.com/channel/UCQ4Jo2IJeyRGzZBvjaaLzrw) - Youtube channel belajar Ilmu Komputer Bahasa Indonesia.
+- [Sekolah Koding](https://www.youtube.com/channel/UCpSPS5yLCxYRuZSrCx-eBjA) - Youtube channel yang membahas mengenai pembelajaran pengembangan situs web dan aplikasi android.
 
 ### English
 
@@ -74,6 +75,9 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 ### Youtube Channel
 
 #### Bahasa
+
+- [Semi Yulianto](https://www.youtube.com/channel/UCXCz2ZdxkXpFyHFJgMy-pJw) - Youtube channel yang membahas mengenai pembelajaran hacking, forensic, tips & trik keamanan komputer.
+- [Jogjakarta Hacker Link](https://www.youtube.com/channel/UCv2BT88dIsTQE17B4tJKqkw) - Youtube channel yang membahas mengenai pembelajaran seputar dunia IT, penetrasi, dan semua dengan etika yang berlaku.
 
 #### English
 
@@ -116,6 +120,10 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 #### English
 
 - [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) - One of the best YouTube channels that provides learning about Computer Security and Capture-the-Flag (Web Security, Browser Exploitation, Binary Exploitaion, Mobile Security).
+- [John Hammond](https://www.youtube.com/user/RootOfTheNull)
+- [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
+- [GynvaelEN](https://www.youtube.com/user/GynvaelEN) - Podcasts about CTFs, computer security, programing and similar things.
+- [Martin Carlisle](https://www.youtube.com/user/carlislemc) - Computer science education videos for Java programming and the picoCTF computer security competition.
 
 ### Other Sources 
 
