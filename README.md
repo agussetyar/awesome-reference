@@ -2,7 +2,7 @@
 
 Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemrograman, Keamanan Siber (Peretasan, Bug Bounty Write-up, CTFs), dan lainnya.
 
- Reference list of useful links to learn about Networking, Programming, Cybersecurity (Hacking, Bug Bounty Write-ups, CTFs), and more.
+Reference list of useful links to learn about Networking, Programming, Cybersecurity (Hacking, Bug Bounty Write-ups, CTFs), and more.
 
 ### Contents
 
@@ -17,7 +17,6 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 - [Other Sources](https://github.com/sindresorhus/awesome)
 - [Contributors](#contributors)
 - [Report Broken Link](#report-broken-link)
-      
 
 # Networking
 
@@ -60,6 +59,8 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 - [Afgprogrammer](https://www.youtube.com/channel/UCuXm84E6yWF0dIKmwvwc9sQ) - YouTube channel that provides learning about UI / UX Website Design, UI / UX Mobile Application Design with a step-by-step video playlist.
 - [Marcus Ng](https://www.youtube.com/channel/UC6Dy0rQ6zDnQuHQ1EeErGUA) - Youtube channel that provides learning about the UI / UX Mobile Applications Design (by speed-code) using Flutter.
 - [React UI Kit](https://www.youtube.com/channel/UC6Dy0rQ6zDnQuHQ1EeErGUA) - Youtube channel that provides learning about the UI / UX Mobile Applications Design (by speed-code) using React Native.
+- [Celeb Curry](https://www.youtube.com/user/CalebTheVideoMaker2/) - Youtube channel that provides a great quality of Programming. You will find C++, Javascript, C, Database Design, SQL and many more!.
+- [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q/) - Learn about Web Programming Especially on Web Design.
 
 ## Other Sources
 
@@ -88,10 +89,9 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 - [How I Hacked Amazon? S3 Bucket Misconfiguration Vulnerability In Amazon](https://hackersonlineclub.com/how-i-hacked-amazon-s3-bucket-misconfiguration-in-amazon/)
 - [DANGERS OF LARAVEL DEBUG MODE ENABLED](https://hacken.io/research/researches-and-investigations/dangers-of-laravel-debug-mode-enabled/)
 
-
-- [https://tinyhack.com/](https://tinyhack.com/)
-- [http://www.securityidiots.com/](http://www.securityidiots.com/)
-- [Paper Seebug](https://paper.seebug.org/category/404team-en/)
+* [https://tinyhack.com/](https://tinyhack.com/)
+* [http://www.securityidiots.com/](http://www.securityidiots.com/)
+* [Paper Seebug](https://paper.seebug.org/category/404team-en/)
 
 ### Youtube Channel
 
@@ -107,6 +107,8 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 - [Ghidra Ninja](https://www.youtube.com/channel/UC3S8vxwRfqLBdIhgRlDRVzw)
 - [thewhiteh4t](https://www.youtube.com/channel/UCZdn6hJEvJbJbbLSGzfwTNQ) - Network and Physical Penetration Testing.
 - [Computerphile](https://www.youtube.com/user/Computerphile) - Videos all about computers and computer stuff.
+- [Loi Liang Yang](https://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw) - Videos all ethical hacking and penetration testing.
+-
 
 ## Bug Bounty
 
@@ -127,7 +129,7 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 #### English
 
-- [STÖK](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg) - STÖK creates educational cybersecurity-related video content for the bug bounty community. Inspiring hackers to level up their  BUG BOUNTY game to become a better pentesters, bug hunters and redteamers.
+- [STÖK](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg) - STÖK creates educational cybersecurity-related video content for the bug bounty community. Inspiring hackers to level up their BUG BOUNTY game to become a better pentesters, bug hunters and redteamers.
 - [InsiderPhD](https://www.youtube.com/user/RapidBug)
 - [Nahamsec](https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw) - Nahamsec creates educational hacking videos for anyone with an interest in web application hacking with a focus on bug bounties.
 
@@ -146,7 +148,7 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 #### Bahasa
 
 - [Cyber Security IPB](https://www.youtube.com/channel/UCH6CPf10u9uQu3w1DRhOliw) - Salah satu Youtube channel terbaik yang memberikan pembelajaran tentang Keamanan Komputer dan Capture-the-Flag (Web Security, Binary Exploit, Reverse Engineering) dari civitas IPB Bogor.
-- [Tripoloski _](https://www.youtube.com/channel/UC9ffb16_yvW5HG_f5BJ0k_A)
+- [Tripoloski \_](https://www.youtube.com/channel/UC9ffb16_yvW5HG_f5BJ0k_A)
 
 #### English
 
@@ -156,7 +158,7 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 - [GynvaelEN](https://www.youtube.com/user/GynvaelEN) - Podcasts about CTFs, computer security, programing and similar things.
 - [Martin Carlisle](https://www.youtube.com/user/carlislemc) - Computer science education videos for Java programming and the picoCTF computer security competition.
 
-### Other Sources 
+### Other Sources
 
 - [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - A curated list of Capture The Flag (CTF) frameworks, libraries, resources, softwares and tutorials.
 - [Awesome Reversing](https://github.com/ReversingID/Awesome-Reversing) - A curated list of awesome reverse engineering resources to make you better!
@@ -173,19 +175,17 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 ### English
 
-
-
-
-
+- [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg) - Python Programming & Tech Tutorials
+- [Network Chuck](https://www.youtube.com/user/NetworkChuck/) - Youtube channel that talking about Information Technology. In here you can find Linux, Raspberry PI and almost everything that contains about Tech!.
 
 # Contributors
 
-Submit referensi menarik lain yang anda ketahui pada halaman *Pull requests*.
+Submit referensi menarik lain yang anda ketahui pada halaman _Pull requests_.
 
-Submit other interesting references that you know on the *Pull requests* page.
+Submit other interesting references that you know on the _Pull requests_ page.
 
 # Report Broken Link
 
-Laporkan link yang rusak pada halaman *Issue*.
+Laporkan link yang rusak pada halaman _Issue_.
 
-Report broken links on the *Issue* page.
+Report broken links on the _Issue_ page.
