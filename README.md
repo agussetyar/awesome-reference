@@ -123,6 +123,9 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 #### English
 
+- [STÖK](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg) - STÖK creates educational cybersecurity-related video content for the bug bounty community. Inspiring hackers to level up their  BUG BOUNTY game to become a better pentesters, bug hunters and redteamers.
+- [InsiderPhD](https://www.youtube.com/user/RapidBug)
+
 ### Other Sources
 
 - [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty) - A comprehensive curated list of available Bug Bounty & Disclosure Programs and Write-ups.
