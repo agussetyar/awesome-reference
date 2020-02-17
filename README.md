@@ -34,15 +34,15 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 ### Bahasa
 
-- [Duniailkom](https://www.duniailkom.com/)
-- [CodeSaya](https://codesaya.com/)
-- [Malas Ngoding](https://www.malasngoding.com/) - Tutorial pemrograman web, web design, mobile terlengkap untuk pemula sampai mahir. tersedia tutorial gratis dan premium yang berkualitas.
-- [Codelatte](https://codelatte.org/) - Blog yang menyediakan beragam artikel dan tutorial menarik dan mudah dipahami tentang pemrograman website.
+- [https://www.duniailkom.com/](https://www.duniailkom.com/)
+- [https://codesaya.com/](https://codesaya.com/)
+- [https://www.malasngoding.com/](https://www.malasngoding.com/) - Tutorial pemrograman web, web design, mobile terlengkap untuk pemula sampai mahir. tersedia tutorial gratis dan premium yang berkualitas.
+- [https://codelatte.org/](https://codelatte.org/) - Blog yang menyediakan beragam artikel dan tutorial menarik dan mudah dipahami tentang pemrograman website.
 
 ### English
 
-- [W3Schools Online Web Tutorials](https://www.w3schools.com/) - THE WORLD'S LARGEST WEB DEVELOPER SITE
-- [Tutorialspoint](https://www.tutorialspoint.com/)
+- [https://www.w3schools.com/](https://www.w3schools.com/) - THE WORLD'S LARGEST WEB DEVELOPER SITE
+- [https://www.tutorialspoint.com/](https://www.tutorialspoint.com/)
 
 ## Youtube Channel
 
@@ -78,13 +78,14 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 #### Bahasa
 
-- [InfoSec ZeroByte](http://infosec.zerobyte.id/)
-- [Abaykan.com](https://abaykan.com/)
+- [http://infosec.zerobyte.id/](http://infosec.zerobyte.id/)
+- [https://abaykan.com/](https://abaykan.com/)
 
 #### English
 
 - [How I Hacked Amazon? S3 Bucket Misconfiguration Vulnerability In Amazon](https://hackersonlineclub.com/how-i-hacked-amazon-s3-bucket-misconfiguration-in-amazon/)
 - [DANGERS OF LARAVEL DEBUG MODE ENABLED](https://hacken.io/research/researches-and-investigations/dangers-of-laravel-debug-mode-enabled/)
+
 
 - [https://tinyhack.com/](https://tinyhack.com/)
 - [http://www.securityidiots.com/](http://www.securityidiots.com/)
@@ -130,7 +131,7 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 ### Article
 
-- [Reversing and Pwning](https://reversingpwn.wordpress.com/)
+- [https://reversingpwn.wordpress.com/](https://reversingpwn.wordpress.com/) -  Reversing and Pwning. Analyzing code for fun not profit.
 
 ### Youtube Channel
 
