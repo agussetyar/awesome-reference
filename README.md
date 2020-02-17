@@ -113,6 +113,10 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 ## CTFs
 
+### Article
+
+- [Reversing and Pwning](https://reversingpwn.wordpress.com/)
+
 ### Youtube Channel
 
 #### Bahasa
