@@ -202,6 +202,10 @@ Submit referensi menarik lain yang anda ketahui pada halaman *Pull requests*.
 
 Submit other interesting references that you know on the *Pull requests* page.
 
+<a href="https://github.com/1F1R5T">
+ <img src="https://avatars0.githubusercontent.com/u/26076138?s=460&v=4" title="1F1R5T" width="35" height="35">
+</a>
+
 # Report Broken Link
 
 Laporkan link yang rusak pada halaman *Issue*.
