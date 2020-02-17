@@ -9,6 +9,12 @@ Reference list of useful links to learn about Networking, Programming, Cybersecu
 - [Awesome Reference](#awesome-reference)
   - [Networking](#networking)
   - [Programming](#programming)
+    - [Article](#article)
+    - [Software Engineering Concept](#software-engineering-concept)
+    - [Natural Language Processing](#natural-language-processing)
+    - [Go Programming Language](#go-programming-language)
+    - [DevOps](#devops)
+    - [Cheatsheet](#cheatsheet)
   - [Cybersecurity](#cybersecurity)
     - [Hacking](#hacking)
     - [Bug Bounty Write-ups](#bug-bounty)
@@ -67,6 +73,10 @@ Reference list of useful links to learn about Networking, Programming, Cybersecu
 ## DevOps
 ### English
 - [Faun's Blog](https://medium.com/faun) - Medium's blog that focused on backend & devops topic
+
+## Cheatsheet
+### English
+- [Devhints](https://devhints.io/) - Variant programming cheatsheet
 
 ## Youtube Channel
 
