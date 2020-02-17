@@ -188,10 +188,10 @@ Reference list of useful links to learn about Networking, Programming, Cybersecu
 
 - [BukaTalks](https://www.youtube.com/channel/UCFg3EocOqjE2Oj1mMiU_wag) - Tech talk oleh Bukalapak.
 - [Tech a Break](https://www.youtube.com/watch?v=RF2EeJ2UjA4&list=PLmmGB6SXc_3QlKdrOFwDySJZbuSCZCQoj&index=20) - Tech talk oleh Tokopedia.
-- [Network Chuck](https://www.youtube.com/user/NetworkChuck) - Youtube channel that talking about Information Technology. In here you can find Linux, Raspberry PI and almost everything that contains about Tech!
 
 ### English
 
+- [Network Chuck](https://www.youtube.com/user/NetworkChuck) - Youtube channel that talking about Information Technology. In here you can find Linux, Raspberry PI and almost everything that contains about Tech!
 
 
 
