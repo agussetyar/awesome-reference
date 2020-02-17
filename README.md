@@ -214,6 +214,9 @@ Submit other interesting references that you know on the *Pull requests* page.
 <a href="https://github.com/rzkytmgr">
  <img src="https://avatars1.githubusercontent.com/u/56517576?s=460&v=4" title="Rizky" width="35" height="35">
 </a>
+<a href="https://github.com/mrizkimaulidan">
+ <img src="https://avatars0.githubusercontent.com/u/34594537?s=460&v=4" title="M Rizki Maulidan" width="35" height="35">
+</a>
 
 # Report Broken Link
 
