@@ -73,6 +73,7 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 - [https://thehackernews.com/](https://thehackernews.com/)
 - [https://gbhackers.com/](https://gbhackers.com/)
+- [https://www.kitploit.com/](https://www.kitploit.com/)
 
 ### Article
 
@@ -156,6 +157,7 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 - [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - A curated list of Capture The Flag (CTF) frameworks, libraries, resources, softwares and tutorials.
 - [Awesome Reversing](https://github.com/ReversingID/Awesome-Reversing) - A curated list of awesome reverse engineering resources to make you better!
+- [http://allitebooks.com/](http://allitebooks.com/) - All IT eBooks - Free IT eBooks Download.
 
 # Tech Talk
 
