@@ -15,6 +15,7 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
     - [CTFs](#ctfs)
   - [Tech Talk](#tech-talk)
 - [Other Sources](https://github.com/sindresorhus/awesome)
+- [Contributors](#contributors)
 - [Report Broken Link](#report-broken-link)
       
 
@@ -105,6 +106,7 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 - [DEFCONConference](https://www.youtube.com/user/DEFCONConference) - DEFCON is one of the world's largest and most notable hacker conventions.
 - [Ghidra Ninja](https://www.youtube.com/channel/UC3S8vxwRfqLBdIhgRlDRVzw)
 - [thewhiteh4t](https://www.youtube.com/channel/UCZdn6hJEvJbJbbLSGzfwTNQ) - Network and Physical Penetration Testing.
+- [Computerphile](https://www.youtube.com/user/Computerphile) - Videos all about computers and computer stuff.
 
 ## Bug Bounty
 
@@ -127,6 +129,7 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 - [STÖK](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg) - STÖK creates educational cybersecurity-related video content for the bug bounty community. Inspiring hackers to level up their  BUG BOUNTY game to become a better pentesters, bug hunters and redteamers.
 - [InsiderPhD](https://www.youtube.com/user/RapidBug)
+- [Nahamsec](https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw) - Nahamsec creates educational hacking videos for anyone with an interest in web application hacking with a focus on bug bounties.
 
 ### Other Sources
 
@@ -170,6 +173,16 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 ### English
 
+
+
+
+
+
+# Contributors
+
+Submit referensi menarik lain yang ada ketahui pada halaman *Pull requests*.
+
+Submit other interesting references that you know on the *Pull requests* page.
 
 # Report Broken Link
 
