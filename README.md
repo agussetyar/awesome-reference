@@ -92,6 +92,8 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 - [https://tinyhack.com/](https://tinyhack.com/)
 - [http://www.securityidiots.com/](http://www.securityidiots.com/)
 - [Paper Seebug](https://paper.seebug.org/category/404team-en/)
+- [Portswigger Web Security](https://portswigger.net/web-security/all-labs)
+- [OWASP Community](https://owasp.org/www-community/)
 
 ### Youtube Channel
 
@@ -120,6 +122,7 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 #### English
 
 - [https://medium.com/bugbountywriteup](https://medium.com/bugbountywriteup)
+- [https://pentester.land/list-of-bug-bounty-writeups.html](https://pentester.land/list-of-bug-bounty-writeups.html)
 
 ### Youtube Channel
 
