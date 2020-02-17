@@ -138,6 +138,7 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 #### Bahasa
 
 - [Cyber Security IPB](https://www.youtube.com/channel/UCH6CPf10u9uQu3w1DRhOliw) - Salah satu Youtube channel terbaik yang memberikan pembelajaran tentang Keamanan Komputer dan Capture-the-Flag (Web Security, Binary Exploit, Reverse Engineering) dari civitas IPB Bogor.
+- [Tripoloski _](https://www.youtube.com/channel/UC9ffb16_yvW5HG_f5BJ0k_A)
 
 #### English
 
