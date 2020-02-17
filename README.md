@@ -89,6 +89,7 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 - [https://tinyhack.com/](https://tinyhack.com/)
 - [http://www.securityidiots.com/](http://www.securityidiots.com/)
+- [Paper Seebug](https://paper.seebug.org/category/404team-en/)
 
 ### Youtube Channel
 
@@ -122,9 +123,6 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 #### Bahasa
 
 #### English
-
-- [STÖK](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg) - STÖK creates educational cybersecurity-related video content for the bug bounty community. Inspiring hackers to level up their  BUG BOUNTY game to become a better pentesters, bug hunters and redteamers.
-- [InsiderPhD](https://www.youtube.com/user/RapidBug)
 
 ### Other Sources
 
