@@ -35,47 +35,47 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 ### Bahasa
 
-- [https://www.duniailkom.com/](https://www.duniailkom.com/)
 - [https://codesaya.com/](https://codesaya.com/)
-- [https://www.malasngoding.com/](https://www.malasngoding.com/)
 - [https://codelatte.org/](https://codelatte.org/)
 - [https://www.petanikode.com/](https://www.petanikode.com/)
+- [https://www.duniailkom.com/](https://www.duniailkom.com/)
+- [https://www.malasngoding.com/](https://www.malasngoding.com/)
 - [https://www.codepolitan.com/articles](https://www.codepolitan.com/articles)
 
 ### English
 
+- [https://dev.to/](https://dev.to/)
+- [https://scotch.io/](https://scotch.io/)
 - [https://www.w3schools.com/](https://www.w3schools.com/)
 - [https://www.tutorialspoint.com/](https://www.tutorialspoint.com/)
-- [https://scotch.io/](https://scotch.io/)
-- [https://dev.to/](https://dev.to/)
 
 ## Youtube Channel
 
 ### Bahasa
 
-- [Web Programming UNPAS](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg) - Youtube channel khusus yang membahas mengenai Teknologi Internet dan Pengembangan Web. Dikelola secara khusus oleh Sandhika Galih sebagai staf pengajar di Program Studi Teknik Informatika Universitas Pasundan Bandung.
-- [Indonesia Belajar](https://www.youtube.com/channel/UCQ4Jo2IJeyRGzZBvjaaLzrw) - Youtube channel belajar Ilmu Komputer Bahasa Indonesia.
 - [Sekolah Koding](https://www.youtube.com/channel/UCpSPS5yLCxYRuZSrCx-eBjA) - Youtube channel yang membahas mengenai pembelajaran pengembangan situs web dan aplikasi android.
+- [Indonesia Belajar](https://www.youtube.com/channel/UCQ4Jo2IJeyRGzZBvjaaLzrw) - Youtube channel belajar Ilmu Komputer Bahasa Indonesia.
+- [Web Programming UNPAS](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg) - Youtube channel khusus yang membahas mengenai Teknologi Internet dan Pengembangan Web. Dikelola secara khusus oleh Sandhika Galih sebagai staf pengajar di Program Studi Teknik Informatika Universitas Pasundan Bandung.
 
 ### English
 
-- [Traversy Media](https://www.youtube.com/user/TechGuyWeb) - One of the best YouTube channels that provides learning about Website Development, Mobile Applications, Databases with a step-by-step video playlist.
+- [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q) - Learn about Web Programming Especially on Web Design.
+- [Brackeys](https://www.youtube.com/user/Brackeys/) - Game Dev Tutorial Brackeys, Learn how to make video games!
+- [Marcus Ng](https://www.youtube.com/channel/UC6Dy0rQ6zDnQuHQ1EeErGUA) - Youtube channel that provides learning about the UI / UX Mobile Applications Design (by speed-code) using Flutter.
+- [OU Graphics](https://www.youtube.com/channel/UC1ptLbehYDNqwdnIGwLpysw) - OU Graphics is an international platform dedicated to teach and explore the world of architecture representation.
+- [Code Monkey](https://www.youtube.com/channel/UCFK6NCbuCIVzA6Yj1G_ZqCg) - Learn everything about Game Development in Unity 2D using C#.- [Celeb Curry](https://www.youtube.com/user/CalebTheVideoMaker2) - Youtube channel that provides a great quality of Programming. You will find C++, Javascript, C, Database Design, SQL and many more!
+- [React UI Kit](https://www.youtube.com/channel/UC6Dy0rQ6zDnQuHQ1EeErGUA) - Youtube channel that provides learning about the UI / UX Mobile Applications Design (by speed-code) using React Native.
+- [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg) - Python Programming & Tech Tutorials.
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) - One of the best YouTube channels that provides learning about Website Development, Mobile Applications, Databases with a step-by-step video playlist.
 - [Afgprogrammer](https://www.youtube.com/channel/UCuXm84E6yWF0dIKmwvwc9sQ) - YouTube channel that provides learning about UI / UX Website Design, UI / UX Mobile Application Design with a step-by-step video playlist.
-- [Marcus Ng](https://www.youtube.com/channel/UC6Dy0rQ6zDnQuHQ1EeErGUA) - Youtube channel that provides learning about the UI / UX Mobile Applications Design (by speed-code) using Flutter.
-- [React UI Kit](https://www.youtube.com/channel/UC6Dy0rQ6zDnQuHQ1EeErGUA) - Youtube channel that provides learning about the UI / UX Mobile Applications Design (by speed-code) using React Native.
-- [Brackeys](https://www.youtube.com/user/Brackeys/) - Game Dev Tutorial Brackeys, Learn how to make video games!
+- [Traversy Media](https://www.youtube.com/user/TechGuyWeb) - One of the best YouTube channels that provides learning about Website Development, Mobile Applications, Databases with a step-by-step video playlist.
 - [1BestCsharp blog](https://www.youtube.com/channel/UCS3W5vFugqi6QcsoAIHcMpw) - Tutorials, Projects Source Code C#, VB.NET, JAVA, PHP.
-- [OU Graphics](https://www.youtube.com/channel/UC1ptLbehYDNqwdnIGwLpysw) - OU Graphics is an international platform dedicated to teach and explore the world of architecture representation.
-- [Code Monkey](https://www.youtube.com/channel/UCFK6NCbuCIVzA6Yj1G_ZqCg) - Learn everything about Game Development in Unity 2D using C#.
-- [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg) - Python Programming & Tech Tutorials.
-- [Celeb Curry](https://www.youtube.com/user/CalebTheVideoMaker2) - Youtube channel that provides a great quality of Programming. You will find C++, Javascript, C, Database Design, SQL and many more!
-- [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q) - Learn about Web Programming Especially on Web Design.
+
 
 ## Other Sources
 
-- [Awesome Flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [Awesome React](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
+- [Awesome Flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 
 # Cybersecurity
 
@@ -83,27 +83,27 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 ### News & Magazine
 
-- [https://thehackernews.com/](https://thehackernews.com/)
 - [https://gbhackers.com/](https://gbhackers.com/)
 - [https://www.kitploit.com/](https://www.kitploit.com/)
+- [https://thehackernews.com/](https://thehackernews.com/)
 
 ### Article
 
 #### Bahasa
 
-- [https://infosec.zerobyte.id/](https://infosec.zerobyte.id/)
 - [https://abaykan.com/](https://abaykan.com/)
+- [https://infosec.zerobyte.id/](https://infosec.zerobyte.id/)
 
 #### English
 
 - [https://hacken.io/](https://hacken.io/)
 - [https://tinyhack.com/](https://tinyhack.com/)
+- [https://www.hahwul.com/](https://www.hahwul.com/)
+- [https://paper.seebug.org/](https://paper.seebug.org/category/404team-en/)
 - [http://www.securityidiots.com/](http://www.securityidiots.com/)
 - [https://hackersonlineclub.com/](https://hackersonlineclub.com/)
 - [https://owasp.org/www-community/](https://owasp.org/www-community/)
-- [https://paper.seebug.org/](https://paper.seebug.org/category/404team-en/)
 - [https://portswigger.net/web-security/all-labs](https://portswigger.net/web-security/all-labs)
-- [https://www.hahwul.com/](https://www.hahwul.com/)
 
 ### Youtube Channel
 
@@ -115,11 +115,12 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 #### English
 
 - [Black Hat](https://www.youtube.com/user/BlackHatOfficialYT) - Black Hat is the most technical and relevant information security event series in the world.
-- [DEFCONConference](https://www.youtube.com/user/DEFCONConference) - DEFCON is one of the world's largest and most notable hacker conventions.
-- [Ghidra Ninja](https://www.youtube.com/channel/UC3S8vxwRfqLBdIhgRlDRVzw)
 - [thewhiteh4t](https://www.youtube.com/channel/UCZdn6hJEvJbJbbLSGzfwTNQ) - Network and Physical Penetration Testing.
+- [Ghidra Ninja](https://www.youtube.com/channel/UC3S8vxwRfqLBdIhgRlDRVzw)
 - [Computerphile](https://www.youtube.com/user/Computerphile) - Videos all about computers and computer stuff.
 - [Loi Liang Yang](https://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw) - Videos all ethical hacking and penetration testing.
+- [DEFCONConference](https://www.youtube.com/user/DEFCONConference) - DEFCON is one of the world's largest and most notable hacker conventions.
+
 
 ## Bug Bounty
 
@@ -132,10 +133,10 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 #### English
 
+- [https://ysamm.com/](https://ysamm.com/)
+- [https://www.amolbaikar.com/blog/](https://www.amolbaikar.com/blog/)
 - [https://medium.com/bugbountywriteup](https://medium.com/bugbountywriteup)
 - [https://pentester.land/list-of-bug-bounty-writeups.html](https://pentester.land/list-of-bug-bounty-writeups.html)
-- [https://www.amolbaikar.com/blog/](https://www.amolbaikar.com/blog/)
-- [https://ysamm.com/](https://ysamm.com/)
 
 ### Youtube Channel
 
@@ -144,8 +145,8 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 #### English
 
 - [STÖK](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg) - STÖK creates educational cybersecurity-related video content for the bug bounty community. Inspiring hackers to level up their  BUG BOUNTY game to become a better pentesters, bug hunters and redteamers.
-- [InsiderPhD](https://www.youtube.com/user/RapidBug)
 - [Nahamsec](https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw) - Nahamsec creates educational hacking videos for anyone with an interest in web application hacking with a focus on bug bounties.
+- [InsiderPhD](https://www.youtube.com/user/RapidBug)
 
 ### Other Sources
 
@@ -161,15 +162,15 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 #### Bahasa
 
-- [Cyber Security IPB](https://www.youtube.com/channel/UCH6CPf10u9uQu3w1DRhOliw) - Salah satu Youtube channel terbaik yang memberikan pembelajaran tentang Keamanan Komputer dan Capture-the-Flag (Web Security, Binary Exploit, Reverse Engineering) dari civitas IPB Bogor.
 - [Tripoloski _](https://www.youtube.com/channel/UC9ffb16_yvW5HG_f5BJ0k_A)
+- [Cyber Security IPB](https://www.youtube.com/channel/UCH6CPf10u9uQu3w1DRhOliw) - Salah satu Youtube channel terbaik yang memberikan pembelajaran tentang Keamanan Komputer dan Capture-the-Flag (Web Security, Binary Exploit, Reverse Engineering) dari civitas IPB Bogor.
 
 #### English
 
-- [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) - One of the best YouTube channels that provides learning about Computer Security and Capture-the-Flag (Web Security, Browser Exploitation, Binary Exploitaion, Mobile Security).
-- [John Hammond](https://www.youtube.com/user/RootOfTheNull)
 - [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
 - [GynvaelEN](https://www.youtube.com/user/GynvaelEN) - Podcasts about CTFs, computer security, programing and similar things.
+- [John Hammond](https://www.youtube.com/user/RootOfTheNull)
+- [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) - One of the best YouTube channels that provides learning about Computer Security and Capture-the-Flag (Web Security, Browser Exploitation, Binary Exploitaion, Mobile Security).
 - [Martin Carlisle](https://www.youtube.com/user/carlislemc) - Computer science education videos for Java programming and the picoCTF computer security competition.
 
 ### Other Sources 
