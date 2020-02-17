@@ -180,7 +180,7 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 # Contributors
 
-Submit referensi menarik lain yang ada ketahui pada halaman *Pull requests*.
+Submit referensi menarik lain yang anda ketahui pada halaman *Pull requests*.
 
 Submit other interesting references that you know on the *Pull requests* page.
 
