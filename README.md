@@ -66,6 +66,9 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 - [1BestCsharp blog](https://www.youtube.com/channel/UCS3W5vFugqi6QcsoAIHcMpw) - Tutorials, Projects Source Code C#, VB.NET, JAVA, PHP.
 - [OU Graphics](https://www.youtube.com/channel/UC1ptLbehYDNqwdnIGwLpysw) - OU Graphics is an international platform dedicated to teach and explore the world of architecture representation.
 - [Code Monkey](https://www.youtube.com/channel/UCFK6NCbuCIVzA6Yj1G_ZqCg) - Learn everything about Game Development in Unity 2D using C#.
+- [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg) - Python Programming & Tech Tutorials.
+- [Celeb Curry](https://www.youtube.com/user/CalebTheVideoMaker2) - Youtube channel that provides a great quality of Programming. You will find C++, Javascript, C, Database Design, SQL and many more!
+- [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q) - Learn about Web Programming Especially on Web Design.
 
 ## Other Sources
 
@@ -113,6 +116,7 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 - [Ghidra Ninja](https://www.youtube.com/channel/UC3S8vxwRfqLBdIhgRlDRVzw)
 - [thewhiteh4t](https://www.youtube.com/channel/UCZdn6hJEvJbJbbLSGzfwTNQ) - Network and Physical Penetration Testing.
 - [Computerphile](https://www.youtube.com/user/Computerphile) - Videos all about computers and computer stuff.
+- [Loi Liang Yang](https://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw) - Videos all ethical hacking and penetration testing.
 
 ## Bug Bounty
 
@@ -177,6 +181,7 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 - [BukaTalks](https://www.youtube.com/channel/UCFg3EocOqjE2Oj1mMiU_wag) - Tech talk oleh Bukalapak.
 - [Tech a Break](https://www.youtube.com/watch?v=RF2EeJ2UjA4&list=PLmmGB6SXc_3QlKdrOFwDySJZbuSCZCQoj&index=20) - Tech talk oleh Tokopedia.
+- [Network Chuck](https://www.youtube.com/user/NetworkChuck) - Youtube channel that talking about Information Technology. In here you can find Linux, Raspberry PI and almost everything that contains about Tech!
 
 ### English
 
