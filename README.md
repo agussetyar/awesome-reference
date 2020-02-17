@@ -36,12 +36,12 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 - [https://www.duniailkom.com/](https://www.duniailkom.com/)
 - [https://codesaya.com/](https://codesaya.com/)
-- [https://www.malasngoding.com/](https://www.malasngoding.com/) - Tutorial pemrograman web, web design, mobile terlengkap untuk pemula sampai mahir. tersedia tutorial gratis dan premium yang berkualitas.
-- [https://codelatte.org/](https://codelatte.org/) - Blog yang menyediakan beragam artikel dan tutorial menarik dan mudah dipahami tentang pemrograman website.
+- [https://www.malasngoding.com/](https://www.malasngoding.com/)
+- [https://codelatte.org/](https://codelatte.org/)
 
 ### English
 
-- [https://www.w3schools.com/](https://www.w3schools.com/) - THE WORLD'S LARGEST WEB DEVELOPER SITE
+- [https://www.w3schools.com/](https://www.w3schools.com/)
 - [https://www.tutorialspoint.com/](https://www.tutorialspoint.com/)
 
 ## Youtube Channel
@@ -131,7 +131,7 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 ### Article
 
-- [https://reversingpwn.wordpress.com/](https://reversingpwn.wordpress.com/) -  Reversing and Pwning. Analyzing code for fun not profit.
+- [https://reversingpwn.wordpress.com/](https://reversingpwn.wordpress.com/)
 
 ### Youtube Channel
 
