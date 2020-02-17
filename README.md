@@ -39,6 +39,8 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 - [https://codesaya.com/](https://codesaya.com/)
 - [https://www.malasngoding.com/](https://www.malasngoding.com/)
 - [https://codelatte.org/](https://codelatte.org/)
+- [https://www.petanikode.com/](https://www.petanikode.com/)
+- [https://www.codepolitan.com/articles](https://www.codepolitan.com/articles)
 
 ### English
 
@@ -101,6 +103,7 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 - [https://owasp.org/www-community/](https://owasp.org/www-community/)
 - [https://paper.seebug.org/](https://paper.seebug.org/category/404team-en/)
 - [https://portswigger.net/web-security/all-labs](https://portswigger.net/web-security/all-labs)
+- [https://www.hahwul.com/]
 
 ### Youtube Channel
 
@@ -131,6 +134,8 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 - [https://medium.com/bugbountywriteup](https://medium.com/bugbountywriteup)
 - [https://pentester.land/list-of-bug-bounty-writeups.html](https://pentester.land/list-of-bug-bounty-writeups.html)
+- [https://www.amolbaikar.com/blog/](https://www.amolbaikar.com/blog/)
+- [https://ysamm.com/](https://ysamm.com/)
 
 ### Youtube Channel
 
@@ -172,6 +177,7 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 - [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - A curated list of Capture The Flag (CTF) frameworks, libraries, resources, softwares and tutorials.
 - [Awesome Reversing](https://github.com/ReversingID/Awesome-Reversing) - A curated list of awesome reverse engineering resources to make you better!
 - [http://allitebooks.com/](http://allitebooks.com/) - All IT eBooks - Free IT eBooks Download.
+- [https://asrul.dev/docs/](https://asrul.dev/docs/)
 
 # Tech Talk
 
