@@ -2,7 +2,7 @@
 
 Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemrograman, Keamanan Siber (Peretasan, Bug Bounty Write-up, CTFs), dan lainnya.
 
- Reference list of useful links to learn about Networking, Programming, Cybersecurity (Hacking, Bug Bounty Write-ups, CTFs), and more.
+Reference list of useful links to learn about Networking, Programming, Cybersecurity (Hacking, Bug Bounty Write-ups, CTFs), and more.
 
 ### Contents
 
@@ -17,7 +17,6 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 - [Other Sources](https://github.com/sindresorhus/awesome)
 - [Contributors](#contributors)
 - [Report Broken Link](#report-broken-link)
-      
 
 # Networking
 
@@ -72,8 +71,6 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb) - One of the best YouTube channels that provides learning about Website Development, Mobile Applications, Databases with a step-by-step video playlist.
 - [1BestCsharp blog](https://www.youtube.com/channel/UCS3W5vFugqi6QcsoAIHcMpw) - Tutorials, Projects Source Code C#, VB.NET, JAVA, PHP.
 
-
-
 ## Other Sources
 
 - [Awesome React](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
@@ -113,6 +110,7 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 - [Semi Yulianto](https://www.youtube.com/channel/UCXCz2ZdxkXpFyHFJgMy-pJw) - Youtube channel yang membahas mengenai pembelajaran hacking, forensic, tips & trik keamanan komputer.
 - [Jogjakarta Hacker Link](https://www.youtube.com/channel/UCv2BT88dIsTQE17B4tJKqkw) - Youtube channel yang membahas mengenai pembelajaran seputar dunia IT, penetrasi, dan semua dengan etika yang berlaku.
+- [LINUXcare](https://www.youtube.com/channel/UC82S4yJws0uk6ed8BX8nONQ) - Youtube channel yang membahas mengenai Hacking dan Linux.
 
 #### English
 
@@ -122,7 +120,6 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 - [Computerphile](https://www.youtube.com/user/Computerphile) - Videos all about computers and computer stuff.
 - [Loi Liang Yang](https://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw) - Videos all ethical hacking and penetration testing.
 - [DEFCONConference](https://www.youtube.com/user/DEFCONConference) - DEFCON is one of the world's largest and most notable hacker conventions.
-
 
 ## Bug Bounty
 
@@ -146,7 +143,7 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 #### English
 
-- [STÖK](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg) - STÖK creates educational cybersecurity-related video content for the bug bounty community. Inspiring hackers to level up their  BUG BOUNTY game to become a better pentesters, bug hunters and redteamers.
+- [STÖK](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg) - STÖK creates educational cybersecurity-related video content for the bug bounty community. Inspiring hackers to level up their BUG BOUNTY game to become a better pentesters, bug hunters and redteamers.
 - [Nahamsec](https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw) - Nahamsec creates educational hacking videos for anyone with an interest in web application hacking with a focus on bug bounties.
 - [InsiderPhD](https://www.youtube.com/user/RapidBug)
 
@@ -164,7 +161,7 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 #### Bahasa
 
-- [Tripoloski _](https://www.youtube.com/channel/UC9ffb16_yvW5HG_f5BJ0k_A)
+- [Tripoloski \_](https://www.youtube.com/channel/UC9ffb16_yvW5HG_f5BJ0k_A)
 - [Cyber Security IPB](https://www.youtube.com/channel/UCH6CPf10u9uQu3w1DRhOliw) - Salah satu Youtube channel terbaik yang memberikan pembelajaran tentang Keamanan Komputer dan Capture-the-Flag (Web Security, Binary Exploit, Reverse Engineering) dari civitas IPB Bogor.
 
 #### English
@@ -175,7 +172,7 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 - [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) - One of the best YouTube channels that provides learning about Computer Security and Capture-the-Flag (Web Security, Browser Exploitation, Binary Exploitation, Mobile Security).
 - [Martin Carlisle](https://www.youtube.com/user/carlislemc) - Computer science education videos for Java programming and the picoCTF computer security competition.
 
-### Other Sources 
+### Other Sources
 
 - [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - A curated list of Capture The Flag (CTF) frameworks, libraries, resources, softwares and tutorials.
 - [Awesome Reversing](https://github.com/ReversingID/Awesome-Reversing) - A curated list of awesome reverse engineering resources to make you better!
@@ -194,16 +191,14 @@ Daftar referensi tautan-tautan berguna untuk mempelajari tentang Jaringan, Pemro
 
 ### English
 
-
-
-
-
+- [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg) - Python Programming & Tech Tutorials
+- [Network Chuck](https://www.youtube.com/user/NetworkChuck/) - Youtube channel that talking about Information Technology. In here you can find Linux, Raspberry PI and almost everything that contains about Tech!.
 
 # Contributors
 
-Submit referensi menarik lain yang anda ketahui pada halaman *Pull requests*.
+Submit referensi menarik lain yang anda ketahui pada halaman _Pull requests_.
 
-Submit other interesting references that you know on the *Pull requests* page.
+Submit other interesting references that you know on the _Pull requests_ page.
 
 <a href="https://github.com/1F1R5T">
  <img src="https://avatars0.githubusercontent.com/u/26076138?s=460&v=4" title="Achmad Imannudin" width="35" height="35">
@@ -223,6 +218,6 @@ Submit other interesting references that you know on the *Pull requests* page.
 
 # Report Broken Link
 
-Laporkan link yang rusak pada halaman *Issue*.
+Laporkan link yang rusak pada halaman _Issue_.
 
-Report broken links on the *Issue* page.
+Report broken links on the _Issue_ page.
