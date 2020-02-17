@@ -15,6 +15,7 @@ Reference list of useful links to learn about Networking, Programming, Cybersecu
     - [Go Programming Language](#go-programming-language)
     - [DevOps](#devops)
     - [Cheatsheet](#cheatsheet)
+    - [Competitive Programming](#competitive-programming)
   - [Cybersecurity](#cybersecurity)
     - [Hacking](#hacking)
     - [Bug Bounty Write-ups](#bug-bounty)
@@ -78,6 +79,15 @@ Reference list of useful links to learn about Networking, Programming, Cybersecu
 ## Cheatsheet
 ### English
 - [Devhints](https://devhints.io/) - Variant programming cheatsheet
+
+## Competitive Programming
+### English
+- [Panda Online Judge](https://pandaoj.com)
+- [Virtual Judge](https://vjudge.net/)
+- [HackerRank](https://www.hackerrank.com/)
+- [Code Wars](https://www.codewars.com/)
+- [Kattis](https://open.kattis.com/)
+- [LeetCode](https://leetcode.com/)
 
 ## Youtube Channel
 
