@@ -162,6 +162,10 @@ Reference list of useful links to learn about Networking, Programming, Cybersecu
 - [Loi Liang Yang](https://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw) - Videos all ethical hacking and penetration testing.
 - [DEFCONConference](https://www.youtube.com/user/DEFCONConference) - DEFCON is one of the world's largest and most notable hacker conventions.
 
+### Twitch
+
+- [NahamSec](https://www.twitch.tv/nahamsec) - Head of Hacker Education at HackerOne and Co-Founder of bugbountyforum
+
 ## Bug Bounty
 
 ### Article
