@@ -270,6 +270,9 @@ Submit other interesting references that you know on the *Pull requests* page.
 <a href="https://github.com/ClavinJune">
  <img src="https://avatars3.githubusercontent.com/u/24659468?s=460&v=4" title="Clavin June" width="35" height="35">
 </a>
+<a href="https://github.com/Adelittle">
+ <img src="https://avatars3.githubusercontent.com/u/58516494?s=460&v=4" title="Adelittle" width="35" height="35">
+</a>
 
 # Report Broken Link
 
