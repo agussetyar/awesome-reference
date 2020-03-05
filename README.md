@@ -176,6 +176,8 @@ Reference list of useful links to learn about Networking, Programming, Cybersecu
 
 - [https://graylife.co/](https://graylife.co/)
 - [https://noobsec.org/](https://noobsec.org/)
+- [https://apapedulimu.click/](https://apapedulimu.click/)
+- [https://daffa.info/](https://daffa.info/)
 
 #### English
 
