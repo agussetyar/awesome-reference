@@ -133,6 +133,7 @@ Reference list of useful links to learn about Networking, Programming, Cybersecu
 
 - [https://abaykan.com/](https://abaykan.com/)
 - [https://infosec.zerobyte.id/](https://infosec.zerobyte.id/)
+- [http://nakanosec.com/](http://nakanosec.com/)
 
 #### English
 
