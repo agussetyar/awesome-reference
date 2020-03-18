@@ -275,6 +275,12 @@ Submit other interesting references that you know on the *Pull requests* page.
 <a href="https://github.com/Adelittle">
  <img src="https://avatars3.githubusercontent.com/u/58516494?s=460&v=4" title="Adelittle" width="35" height="35">
 </a>
+<a href="https://github.com/rzkytmgr">
+ <img src="https://avatars0.githubusercontent.com/u/56517576?s=460&u=aaad0f98f748f07a1132684e23ddae7d2ece17e4&v=4" title="Rizky" width="35" height="35">
+</a>
+<a href="https://github.com/hasobi">
+ <img src="https://avatars2.githubusercontent.com/u/13960580?s=460&u=70c9804ba8179cfd27c16501d78055262058446b&v=4" title="Hasobi Ro'id Radityo" width="35" height="35">
+</a>
 
 # Report Broken Link
 
