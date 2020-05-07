@@ -163,6 +163,7 @@ Reference list of useful links to learn about Networking, Programming, Cybersecu
 - [Computerphile](https://www.youtube.com/user/Computerphile) - Videos all about computers and computer stuff.
 - [Loi Liang Yang](https://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw) - Videos all ethical hacking and penetration testing.
 - [DEFCONConference](https://www.youtube.com/user/DEFCONConference) - DEFCON is one of the world's largest and most notable hacker conventions.
+- [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q/featured) - Videos on penetration testing, malware analysis, ethical hacking etc.
 
 ### Twitch
 
