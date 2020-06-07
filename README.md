@@ -32,8 +32,7 @@ Reference list of useful links to learn about Networking, Programming, Cybersecu
 
 ### Bahasa
 
-- [Onno Center](https://www.youtube.com/channel/UCvYfBQdMzsWTbNAsgJEC7Ig)
-   Salah satu Youtube channel terbaik yang memberikan pembelajaran tentang Teknik Jaringan Komputer (IoT, OpenWRT, OpenBTS, VoIP).
+- [Onno Center](https://www.youtube.com/channel/UCvYfBQdMzsWTbNAsgJEC7Ig) - Salah satu Youtube channel terbaik yang memberikan pembelajaran tentang Teknik Jaringan Komputer (IoT, OpenWRT, OpenBTS, VoIP).
 
 ### English
 
@@ -54,6 +53,7 @@ Reference list of useful links to learn about Networking, Programming, Cybersecu
 ### English
 
 - [https://dev.to/](https://dev.to/)
+- [https://morioh.com/](https://morioh.com/)
 - [https://scotch.io/](https://scotch.io/)
 - [https://www.w3schools.com/](https://www.w3schools.com/)
 - [https://www.tutorialspoint.com/](https://www.tutorialspoint.com/)
@@ -226,6 +226,7 @@ Reference list of useful links to learn about Networking, Programming, Cybersecu
 - [John Hammond](https://www.youtube.com/user/RootOfTheNull)
 - [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) - One of the best YouTube channels that provides learning about Computer Security and Capture-the-Flag (Web Security, Browser Exploitation, Binary Exploitation, Mobile Security).
 - [Martin Carlisle](https://www.youtube.com/user/carlislemc) - Computer science education videos for Java programming and the picoCTF computer security competition.
+- [PwnFunction](https://www.youtube.com/channel/UCW6MNdOsqv2E9AjQkv9we7A)
 
 ### Other Sources
 
