@@ -7,20 +7,20 @@ Reference list of useful links to learn about Networking, Programming, Cybersecu
 ### Contents
 
 - [Awesome Reference](#awesome-reference)
-  - [Networking](#networking)
-  - [Programming](#programming)
-    - [Article](#article)
-    - [Software Engineering Concept](#software-engineering-concept)
-    - [Natural Language Processing](#natural-language-processing)
-    - [Go Programming Language](#go-programming-language)
-    - [DevOps](#devops)
-    - [Cheatsheet](#cheatsheet)
-    - [Competitive Programming](#competitive-programming)
-  - [Cybersecurity](#cybersecurity)
-    - [Hacking](#hacking)
-    - [Bug Bounty Write-ups](#bug-bounty)
-    - [CTFs](#ctfs)
-  - [Tech Talk](#tech-talk)
+    - [Networking](#networking)
+    - [Programming](#programming)
+        - [Article](#article)
+        - [Software Engineering Concept](#software-engineering-concept)
+        - [Natural Language Processing](#natural-language-processing)
+        - [Go Programming Language](#go-programming-language)
+        - [DevOps](#devops)
+        - [Cheatsheet](#cheatsheet)
+        - [Competitive Programming](#competitive-programming)
+    - [Cybersecurity](#cybersecurity)
+        - [Hacking](#hacking)
+        - [Bug Bounty Write-ups](#bug-bounty)
+        - [CTFs](#ctfs)
+    - [Tech Talk](#tech-talk)
 - [Other Sources](https://github.com/sindresorhus/awesome)
 - [Contributors](#contributors)
 - [Report Broken Link](#report-broken-link)
@@ -32,7 +32,8 @@ Reference list of useful links to learn about Networking, Programming, Cybersecu
 
 ### Bahasa
 
-- [Onno Center](https://www.youtube.com/channel/UCvYfBQdMzsWTbNAsgJEC7Ig) - Salah satu Youtube channel terbaik yang memberikan pembelajaran tentang Teknik Jaringan Komputer (IoT, OpenWRT, OpenBTS, VoIP).
+- [Onno Center](https://www.youtube.com/channel/UCvYfBQdMzsWTbNAsgJEC7Ig)
+   Salah satu Youtube channel terbaik yang memberikan pembelajaran tentang Teknik Jaringan Komputer (IoT, OpenWRT, OpenBTS, VoIP).
 
 ### English
 
