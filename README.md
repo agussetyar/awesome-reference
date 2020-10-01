@@ -250,6 +250,10 @@ Reference list of useful links to learn about Networking, Programming, Cybersecu
 
 - [Network Chuck](https://www.youtube.com/user/NetworkChuck) - Youtube channel that talking about Information Technology. In here you can find Linux, Raspberry PI and almost everything that contains about Tech!
 
+## Podcast
+
+### Bahasa
+- [Ceritanya Developer](https://ceritanyadeveloper.com/)
 
 # Contributors
 
