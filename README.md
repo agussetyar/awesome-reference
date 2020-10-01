@@ -21,6 +21,7 @@ Reference list of useful links to learn about Networking, Programming, Cybersecu
         - [Bug Bounty Write-ups](#bug-bounty)
         - [CTFs](#ctfs)
     - [Tech Talk](#tech-talk)
+    - [Podcast](#podcast)
 - [Other Sources](https://github.com/sindresorhus/awesome)
 - [Contributors](#contributors)
 - [Report Broken Link](#report-broken-link)
@@ -250,9 +251,9 @@ Reference list of useful links to learn about Networking, Programming, Cybersecu
 
 - [Network Chuck](https://www.youtube.com/user/NetworkChuck) - Youtube channel that talking about Information Technology. In here you can find Linux, Raspberry PI and almost everything that contains about Tech!
 
-## Podcast
+# Podcast
 
-### Bahasa
+## Bahasa
 - [Ceritanya Developer](https://ceritanyadeveloper.com/)
 
 # Contributors
